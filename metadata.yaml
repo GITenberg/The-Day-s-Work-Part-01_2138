@@ -1,5 +1,5 @@
 _repo: The-Day-s-Work-Part-01_2138
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Manners and customs -- Fiction'
 - !lcsh 'Short stories, English'
+- GITenberg
 tableOfContents: The bridge-builders -- A walking delegate -- The ship that found
   herself -- The tomb of his ancestors -- The devil and the deep sea -- William the
   Conqueror -- The son of his father -- The bridge-builders.
